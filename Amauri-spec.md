@@ -14,7 +14,7 @@ com um objetivo de entrar no ramo da tecnologia.
 # Ferramentas
 ![alt text](image.png)![alt text](image-1.png)
 
-<image src="image-9.png" alt= "alt text" width="90" height="40">
+<image src="image-9.png" alt="alt text" width="90" height="40">
 <img src="image-10.png" alt="alt text" width="90" height="40">
 <img src="image-11.png" alt="alt text" width="90" height="40">
 
